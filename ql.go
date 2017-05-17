@@ -31,7 +31,7 @@ type Sort struct {
 	Descending bool   `json:"descending"`
 }
 
-// Or creates an 'AND' Composite Filter.
+// And creates an 'AND' Composite Filter.
 func And(filters ...*Filter) *Filter {
 	c := &Filter{
 		Composite: Composite{
