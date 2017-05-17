@@ -1,0 +1,2 @@
+# QL [![GoDoc](https://godoc.org/github.com/jmank88/ql?status.svg)](https://godoc.org/github.com/jmank88/ql) [![Build Status](https://travis-ci.org/jmank88/ql.svg)](https://travis-ci.org/jmank88/ql) [![Go Report Card](https://goreportcard.com/badge/github.com/jmank88/ql)](https://goreportcard.com/report/github.com/jmank88/ql)
+An experimental Go library for adapting generic JSON database queries to different backend databases.
